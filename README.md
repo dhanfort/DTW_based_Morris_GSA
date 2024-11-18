@@ -6,9 +6,9 @@ The Python module created for this paper "DTWMorrisGSA" version 0.1.1 is availab
 
 To intsall via pip: pip install DTWMorrisGSA
 
-[Click To Doanload Install Files:](https://test.pypi.org/simple/dtwmorrisgsa/)
+[Click To Doanload Install Files: Binary Wheel and Source (created via Twine)](https://test.pypi.org/simple/dtwmorrisgsa/)
 
 This Python module will be moved from the TestPyPi into the PyPi repository for wider dissemination.
 
 This Python module was built by utilizing the existing Morris Screening code implementation
-by: Cuntz, Mai et al. (Water Res Research, 2015); GitHub repo: https://github.com/mcuntz/pyeee 
+by: Cuntz, Mai et al. (Water Res Research, 2015); GitHub repo: https://github.com/mcuntz/pyeee. We are grateful for this prior work.
