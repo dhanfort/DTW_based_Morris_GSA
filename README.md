@@ -4,7 +4,9 @@ This is the repository for our paper:
 
 The Python module created for this paper "DTWMorrisGSA" version 0.1.1 is available for install and use from Test PyPi: ( Note, there seems to be a required space " " character before DTWMorrisGSA)
 
-[To install: pip install -i https://test.pypi.org/simple/ DTWMorrisGSA]
+To intsall via pip: pip install DTWMorrisGSA
+
+[Click To Doanload Install Files:](https://test.pypi.org/simple/dtwmorrisgsa/)
 
 This Python module will be moved from the TestPyPi into the PyPi repository for wider dissemination.
 
