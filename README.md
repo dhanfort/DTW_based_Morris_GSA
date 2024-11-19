@@ -6,7 +6,7 @@ The Python module created for this paper "DTWMorrisGSA" version 0.1.1 is availab
 
 To install via pip: pip install -i https​&#65279;://test.pypi.org/simple/ DTWMorrisGSA
 
-[Click To Doanload Install Files: Binary Wheel and Source (created via Twine)](https://test.pypi.org/simple/dtwmorrisgsa/)
+[Click To Download Install Files: Binary Wheel and Source (created via Twine)](https://test.pypi.org/simple/dtwmorrisgsa/)
 
 When we are done with the on-going further refinements of the packaging of this module, DTWMorrisGSA module will be moved from the TestPyPi into the PyPi repository for wider dissemination.
 
