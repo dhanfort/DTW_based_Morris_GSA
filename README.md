@@ -17,5 +17,5 @@ There are three items in this repository:
 2) The Jupyter Notebook workflow to replicate the computational work for Examples (1,2,3) done in the paper.
 3) The R-scipts used to perform the final data analysis and other graphics rendering. 
 
-This Python module was built by utilizing the existing Morris Screening code implementation
+This current Python module ""DTWMorrisGSA" was built by utilizing the existing Morris Screening code implementation
 by: Cuntz, Mai et al. (Water Res Research, 2015); GitHub repo: https://github.com/mcuntz/pyeee. We are grateful for this prior work.
