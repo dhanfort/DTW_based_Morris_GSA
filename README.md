@@ -12,11 +12,10 @@ To install via pip: pip install -i https​&#65279;://test.pypi.org/simple/ DTWM
 
 This Python module will be moved from the TestPyPi into the PyPi repository for wider dissemination.
 
-This Python module was built by utilizing the existing Morris Screening code implementation
-by: Cuntz, Mai et al. (Water Res Research, 2015); GitHub repo: https://github.com/mcuntz/pyeee. We are grateful for this prior work.
-
-There are two items in this repository:
+There are three items in this repository:
 1) The Python source code for the DTWMorrisGSA under the "src" folder.
 2) The Jupyter Notebook workflow to replicate the computational work for Examples (1,2,3) done in the paper.
 3) The R-scipts used to perform the final data analysis and other graphics rendering. 
 
+This Python module was built by utilizing the existing Morris Screening code implementation
+by: Cuntz, Mai et al. (Water Res Research, 2015); GitHub repo: https://github.com/mcuntz/pyeee. We are grateful for this prior work.
