@@ -8,7 +8,7 @@ To install via pip: pip install -i https​&#65279;://test.pypi.org/simple/ DTWM
 
 [Click To Doanload Install Files: Binary Wheel and Source (created via Twine)](https://test.pypi.org/simple/dtwmorrisgsa/)
 
-When we are donewith the on-going further refinements of the packaging of this module, DTWMorrisGSA module will be moved from the TestPyPi into the PyPi repository for wider dissemination.
+When we are done with the on-going further refinements of the packaging of this module, DTWMorrisGSA module will be moved from the TestPyPi into the PyPi repository for wider dissemination.
 
 There are three items in this repository:
 1) The Python source code for the DTWMorrisGSA under the "src" folder.
